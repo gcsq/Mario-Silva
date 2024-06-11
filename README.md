@@ -32,3 +32,6 @@ chão de grama
 - Nome do Aluno 1 Guilherme Cássio Serpi Queiroz
 - Nome do Aluno 2 Kassem Santos
 - Nome do Aluno 3 Marco Antonio
+
+## Executavel 
+-pasta "build"
