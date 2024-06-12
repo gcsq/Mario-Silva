@@ -8,8 +8,13 @@ Status atual do projeto (Em Andamento, Concluído, etc).
 Concluído
 
 ## Funcionalidades Implementadas
+Por problemas ao decorrer do projeto só teremos funcionalidades finais
 
-
+## Funcionalidades Finais
+*Movimentação do Personagem: Controle suave e responsivo do personagem principal (Mario) com animações para correr, pular, abaixar, etc.
+*Inimigos e Obstáculos: Diversidade de inimigos (Goombas, Koopas, etc.) e obstáculos (buracos, espinhos, etc.) que aumentam a dificuldade.
+*Power-ups: Itens que Mario pode coletar para ganhar habilidades especiais.
+*Moedas e Pontuações: Coleta de moedas espalhadas pelos níveis para acumular pontos.
 
 ## Tecnologias e IDE Utilizadas
 - Unity
