@@ -7,10 +7,7 @@ Jogo baseado em Mario, Mario Silva é na mesma perspectiva e estilo de jogo
 Status atual do projeto (Em Andamento, Concluído, etc). 
 Em Andamento
 
-##Funcionalidades Implementadas
-Animação
-aviao
-chão de grama
+## Funcionalidades Implementadas
 
 
 
