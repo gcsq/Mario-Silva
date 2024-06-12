@@ -29,3 +29,6 @@ Concluído
 
 ## Executavel 
 -pasta "build"
+
+## Observação
+Houve pastas que não consegui "upar" então mandei os arquivos separadamente e outras eu realmente nao consegui envia, exemplo "ShaderCache" foi uma que não foi possivel enviar. 
